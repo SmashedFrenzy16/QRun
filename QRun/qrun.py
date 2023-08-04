@@ -22,7 +22,7 @@ change_y = 0
 # Spikes variables
 spikes = [300, 450, 600]
 spikes_speed = 3
-on = True
+on = False
 
 # World vairables
 gravity = 1
